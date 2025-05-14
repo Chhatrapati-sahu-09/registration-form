@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fa;
+}
+
+.section-title {
+  margin-top: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.form-control {
+  font-size: 0.95rem;
+}
+
+.btn-primary {
+  background-color: #3f75ff;
+  border-color: #3f75ff;
+}
+.btn-primary:hover {
+  background-color: #2f5edc;
+  border-color: #2f5edc;
+}
